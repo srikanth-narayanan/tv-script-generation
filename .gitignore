@@ -105,3 +105,4 @@ venv.bak/
 
 # project files
 preprocess.p
+trained_rnn.pt
